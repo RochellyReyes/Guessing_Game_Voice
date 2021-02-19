@@ -1,5 +1,5 @@
 # Guessing Game - Voice Recognition API
-This app is created with HTML, CSS, and JS to create an interactive guessing game. Dom manipulation and external API used. 
+This app is created with HTML, CSS, and JS to create an interactive guessing game. Dom manipulation and [web API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API) used. 
 
 Guess a number 1 - 100. 
 
